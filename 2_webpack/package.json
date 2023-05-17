@@ -1,0 +1,20 @@
+{
+  "name": "2_webpack",
+  "version": "1.0.0",
+  "description": "기본 npm init을 눌렀을 때 물어보는 질문들을 다 생략하고 바로 생성해줌",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
