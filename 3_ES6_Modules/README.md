@@ -1,5 +1,6 @@
 # 웹팩의 주요 속성 4가지
 
+[웹팩의 주요 속성 4가지](https://despiteallthat.tistory.com/213)
 ## mode 
 Webpack에서 기본적으로 제공하는 타입이 3개가 있다.
 production, development, none 
